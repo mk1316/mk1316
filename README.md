@@ -4,13 +4,16 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 ---
 
-**What I build:**  
-- Real-time, cross-platform apps (desktop, web & mobile)
-- Cloud-synced, privacy-focused productivity tools
-- Modern, responsive UIs with React, Next.js, and Tailwind CSS
+## 🚀 Featured Projects
 
-**Also experienced with:**  
-Rust, Tauri, SQLite, Node.js, native OS APIs (Win32, Cocoa, X11), real-time event-driven systems, robust error handling, and background processing.
+<div align="center">
+  <a href="https://github.com/mk1316/mesgana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=mesgana&theme=dark&hide_border=true" alt="Mesgana Repo Card" />
+  </a>
+  <a href="https://github.com/mk1316/loopd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=loopd&theme=dark&hide_border=true" alt="Loopd Repo Card" />
+  </a>
+</div>
 
 ---
 
@@ -35,8 +38,8 @@ Rust, Tauri, SQLite, Node.js, native OS APIs (Win32, Cocoa, X11), real-time even
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=DEA584)
 ![](https://img.shields.io/badge/Framework-Tauri-informational?style=flat&logo=tauri&logoColor=white&color=FFC131)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Build-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 
 ---
 
