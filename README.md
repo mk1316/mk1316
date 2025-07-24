@@ -8,10 +8,10 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 <div align="center">
   <a href="https://github.com/mk1316/mesgana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=mesgana&theme=dark&hide_border=true" alt="Mesgana Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=mesgana&theme=dark&hide_border=true&bg_color=22272e&title_color=ffffff&text_color=ffffff&icon_color=FFB300" alt="Mesgana Repo Card" />
   </a>
   <a href="https://github.com/mk1316/loopd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=loopd&theme=dark&hide_border=true" alt="Loopd Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk1316&repo=loopd&theme=dark&hide_border=true&bg_color=22272e&title_color=ffffff&text_color=ffffff&icon_color=FFB300" alt="Loopd Repo Card" />
   </a>
 </div>
 
