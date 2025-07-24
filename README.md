@@ -4,39 +4,50 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 ---
 
-## 🛠️ Tech Stack
+**What I build:**  
+- Real-time, cross-platform apps (desktop & web)
+- Cloud-synced, privacy-focused productivity tools
+- Modern, responsive UIs with React, Next.js, and Tailwind CSS
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react%20native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Also experienced with:**  
+Rust, Tauri, SQLite, Node.js, native OS APIs (Win32, Cocoa, X11), real-time event-driven systems, robust error handling, and background processing.
 
 ---
 
+## 🛠️ Tech Stack
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=20232A&color=61DAFB)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=61DAFB&color=20232A)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC)
+![](https://img.shields.io/badge/Code-Zustand-informational?style=flat&logo=zustand&logoColor=black&color=FFB300)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/Code-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3ECF8E)
+![](https://img.shields.io/badge/Code-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=009688)
+![](https://img.shields.io/badge/Code-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=DEA584)
+![](https://img.shields.io/badge/Framework-Tauri-informational?style=flat&logo=tauri&logoColor=white&color=FFC131)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/Build-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+
+---
 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/mk1316">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kaleb's GitHub Stats" />
 </a>
-
 <a href="https://github.com/mk1316">
   <img align="center" src="https://streak-stats.demolab.com/?user=mk1316&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
-
-
 
 ---
 
@@ -46,4 +57,3 @@ Feel free to reach out if you want to collaborate, have questions, or just want 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebft)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mk1316)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsegkaleb@gmail.com)
-
