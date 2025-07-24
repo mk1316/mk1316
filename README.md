@@ -34,7 +34,7 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 ![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&hide_border=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mk1316&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=mk1316&theme=dark)
 
 ---
 
