@@ -42,11 +42,14 @@ Rust, Tauri, SQLite, Node.js, native OS APIs (Win32, Cocoa, X11), real-time even
 
 ## 📊 General Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/mk1316)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mk1316&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mk1316)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mk1316?theme=dark&ext=heatmap)](https://leetcode.com/mk1316)
+<div align="center">
+  <a href="https://github.com/mk1316">
+    <img align="center" src="https://streak-stats.demolab.com/?user=mk1316&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+  <a href="https://leetcode.com/mk1316">
+    <img align="center" src="https://leetcard.jacoblin.cool/mk1316?theme=dark&hide_avatar=true&hide_rank=true&hide_title=true" alt="LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
