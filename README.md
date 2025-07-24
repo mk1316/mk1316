@@ -4,7 +4,7 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebft)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mk1316)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsegkaleb@gmail.com)
 
 ---
 
@@ -33,7 +33,9 @@ I'm a passionate full-stack developer focused on building impactful products wit
 ## 📈 GitHub Stats
 
 ![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&hide_border=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mk1316&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 **Let’s connect!**  
