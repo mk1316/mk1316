@@ -5,7 +5,7 @@ I'm a passionate full-stack developer focused on building impactful products wit
 ---
 
 **What I build:**  
-- Real-time, cross-platform apps (desktop & web)
+- Real-time, cross-platform apps (desktop, web & mobile)
 - Cloud-synced, privacy-focused productivity tools
 - Modern, responsive UIs with React, Next.js, and Tailwind CSS
 
