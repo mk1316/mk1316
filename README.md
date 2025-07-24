@@ -2,10 +2,6 @@
 
 I'm a passionate full-stack developer focused on building impactful products with modern web and mobile technologies. I love solving real-world problems, collaborating with teams, and learning new tools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebft)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mk1316)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsegkaleb@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -32,17 +28,22 @@ I'm a passionate full-stack developer focused on building impactful products wit
 
 ## 📈 GitHub Stats
 
-![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&hide_border=true&theme=radical&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mk1316&theme=dark)
-
-<a href="https://github.com/mk1316">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk1316&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/mk1316">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mk1316&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kaleb's GitHub Stats" />
 </a>
+
+<a href="https://github.com/mk1316">
+  <img align="center" src="https://streak-stats.demolab.com/?user=mk1316&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
+
 
 ---
 
 **Let’s connect!**  
 Feel free to reach out if you want to collaborate, have questions, or just want to say hi.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalebft)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mk1316)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsegkaleb@gmail.com)
+
