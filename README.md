@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaleb!
 
-I'm a passionate full-stack developer focused on building impactful products with modern web and mobile technologies. I love solving real-world problems, collaborating with teams, and learning new tools.
+Currently working on personal productivity apps.
 
 ---
 
