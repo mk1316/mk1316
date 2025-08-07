@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaleb!
 
-Currently working on personal productivity apps.
+Currently building personal productivity apps.
 
 ---
 
