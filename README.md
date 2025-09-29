@@ -47,9 +47,6 @@ Currently building personal productivity apps.
 <a href="https://github.com/mk1316">
   <img align="center" src="https://streak-stats.demolab.com/?user=mk1316&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
-<a href="https://leetcode.com/mk1316">
-  <img align="center" src="https://leetcard.jacoblin.cool/mk1316?theme=dark&hide_avatar=true&border=0&hide_rank=true&hide_title=true" alt="LeetCode Stats" />
-</a>
 
 ---
 
